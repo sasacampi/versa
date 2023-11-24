@@ -1,5 +1,5 @@
 import "./Slide.css";
-import SlideCentro from "../images/LandingPage/SlideCentro.jpg";
+import SlideCentro from "../images/LandingPage/50OFF.png";
 
 export function Slide() {
   function redirectProdutos(){
